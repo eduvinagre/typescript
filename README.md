@@ -38,3 +38,5 @@ Using Prisma to comunicate with database using only one sintax so you I can use 
 ## Learning Process
 
 ## Used Technologies
+
+## What I'm longing for
