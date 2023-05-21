@@ -34,3 +34,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 Using Prisma to comunicate with database using only one sintax so you I can use it with PostgreSQL and it's a TypScript ORM
+
+## Learning Process
+
+## Used Technologies
