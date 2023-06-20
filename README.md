@@ -39,6 +39,8 @@ Using Prisma to comunicate with database using only one sintax so you I can use 
 
 ## Used Technologies
 
+Prisma, TypeScript, React and Next.js
+
 ## What I'm longing for
 
 ## Thanks to
