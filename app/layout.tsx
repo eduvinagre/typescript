@@ -7,6 +7,3 @@ export const metadata = {
   title: "Social Media App",
   description: "Made by @eduvinagre using Next.js, Typescript and Prisma",
 };
-
-export default function RootLayout({
- 
