@@ -43,6 +43,6 @@ Prisma, TypeScript, React and Next.js
 
 ## What I'm longing for
 
-Develop my skills specially using Typescript
+Develop my skills specially using Typescript and Next.js
 
 ## Screeshots
